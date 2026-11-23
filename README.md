@@ -1,6 +1,6 @@
 # API REST com Node.js, Express, MySQL e MVC
 
-**Aluno:** Gustavo Henrique dos Santos  
+**Aluno:** Gustavo Henrique dos Santos  e Murilo Morales
 **Turma:** 3º NDN  
 **Disciplina:** Programação Web III (PW3)  
 **Atividade:** 02 – Refatoração para Arquitetura MVC
